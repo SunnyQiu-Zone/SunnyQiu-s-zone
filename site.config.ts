@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'SunnyQiu's zone',
+  name: 'SunnyQiu zone',
   domain: 'https://oval-blarney-cc3.notion.site/SunnyQiu-s-zone-97cefbb970984cd9a513423abc9a99f5?pvs=4',
   author: 'SunnyQiu',
 
