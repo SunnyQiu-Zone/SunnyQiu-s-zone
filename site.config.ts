@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'zhenzhen644051',
-  github: 'SunnyQiu's zone',
+  github: 'SunnyQiu-s-zone',
   linkedin: 'sunnyqiu',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
